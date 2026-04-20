@@ -6,4 +6,8 @@
 #define TFT_MOSI 23
 #define TFT_SCLK 18
 
-
+      #define L_BTN 13
+      #define C_BTN 34
+      #define U_BTN 36
+      #define R_BTN 39
+      #define D_BTN 35
